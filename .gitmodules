@@ -1,3 +1,4 @@
 [submodule "custom"]
-  path = custom
-  url = http://10.8.0.1:3000/Stratotegic/Custom_QGC_Module.git
+	path = custom
+	url = http://10.8.0.1:3000/Stratotegic/custom.git
+	branch = main
